@@ -1,0 +1,13 @@
+
+*.txt
+*.log
+*.html
+*.json
+
+
+data/
+headers/
+html/
+screenshots/
+
+
