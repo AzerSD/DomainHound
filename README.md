@@ -38,7 +38,8 @@ go install -v github.com/tomnomnom/httprobe@latest
 1. **Clone the Repository**
 
    ```bash
-go install -v github.com/AzerSD/DomainHound@latest
+  git clone https://github.com/AzerSD/DomainHound.git
+   cd DomainHound
    ```
 
 2. **Run the Script**
