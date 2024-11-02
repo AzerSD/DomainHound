@@ -36,9 +36,8 @@ go install -v github.com/tomnomnom/httprobe@latest
 ## Usage
 
 1. **Clone the Repository**
-
    ```bash
-  git clone https://github.com/AzerSD/DomainHound.git
+   git clone https://github.com/AzerSD/DomainHound.git
    cd DomainHound
    ```
 
