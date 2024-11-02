@@ -86,10 +86,3 @@ data/
 
 ### 5. `screenshot_domains(domain, command)`
    - Runs the screenshot command on the root domains for easy visualization.
-
-## Example Workflow
-
-1. **Find subdomains** for `example.com` and check for live ones.
-2. **Filter out** sensitive root domains (e.g., dev, staging).
-3. **Discover endpoints** for all live domains.
-4. **Capture screenshots** of the domains.
